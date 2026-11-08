@@ -1,0 +1,27 @@
+defaut_vide: "Non renseigné"
+defaut_inconnu: "Autre / à vérifier"
+categories:
+  - nom: "Antivirus"
+    mots_cles: ["antivirus", "anti virus", "anti-virus"]
+  - nom: "Office 365 / Outlook"
+    mots_cles: ["office 365", "office365", "outlook", "excel"]
+  - nom: "Imprimante / Scanner"
+    mots_cles: ["imprimante", "imptrimant", "immprimante", "scanner"]
+  - nom: "Réseau"
+    mots_cles: ["reseau", "resaux", "reeaux", "vpn", "virtuelle private network"]
+  - nom: "Téléphonie"
+    mots_cles: ["telephon", "cisco"]
+  - nom: "Application métier / ERP"
+    mots_cles: ["bpcs", "cmes", "cemes", "ged$", "ibim", "ebim", "bm2", "pss$",
+                "acure time", "acuretime", "pointeuse", "etticket", "bp16", "bp18", "bp19"]
+  - nom: "Gestion des comptes"
+    mots_cles: ["mot de passe", "utilisateur", "profile", "ad$"]
+  - nom: "Serveur"
+    mots_cles: ["serveur"]
+  - nom: "Système d'exploitation"
+    mots_cles: ["systeme", "formatage"]
+  - nom: "Matériel informatique"
+    mots_cles: ["barette memoire", "ecran", "disque", "hardware", "composante",
+                "pc$", "laptop", "ordinateur", "matrielles", "materielles"]
+  - nom: "Applications bureautique"
+    mots_cles: ["applicaion", "application", "logiciel"]

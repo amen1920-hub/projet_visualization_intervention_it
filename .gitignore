@@ -1,0 +1,8 @@
+﻿data/raw/
+data/processed/
+.env
+__pycache__/
+.venv/
+*.pyc
+.ipynb_checkpoints/
+config/techniciens.yml
